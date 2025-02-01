@@ -65,7 +65,6 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
   
 ## 🧠 Prompts
-
 ChatGPT：-
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
@@ -81,22 +80,21 @@ BING：
 
 
 
-## 👨‍💻 Expert
-
-<p>
-  
-    <p>&nbsp&nbsp&nbspFernandaPrado<br>
+## 👨‍💻 Aluna
+   < />
+    <p>&nbsp&nbsp&nbspFernanda Cossa do Prado<br>
     &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/ferdoprado">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
+    <a href="https://github.com/ferdoprado">
+    GitHub</a>&nbsp;|&nbsp;
+   &nbsp;|&nbsp;
     
-    &nbsp;|&nbsp;</p>
+&nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
 <p>
+
+---
+
 
 ---
 
