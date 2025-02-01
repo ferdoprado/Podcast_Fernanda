@@ -1,4 +1,4 @@
-# Podcast_Fernanda
+# Podcast_Fernanda - Governança de Boa : Entenda a governança de TI de forma fácil  e prática
 Podcast produzido no curso da DIO para atender ao desafio.
 <p align="center">
 <img 
