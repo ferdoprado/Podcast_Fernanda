@@ -64,15 +64,29 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
 - 🤖 3. Use os prompts de artes no `bing`
 
+  
+## 🧠 Prompts
+
+PROMPT's
+ChatGPT：
+
+|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  título  |  Você é um roteirista de podcast e vamos criar um podcast de temática Governança de TI , me dê 5 sugestões de nomes criativos para este podcast, o podcast terá uma linguagem descomplicada e leve para os temas. {REGRAS} O nome deve ser enxuto, ter título e subtítulo. Não quero linguagem muito técnica no nome.                                  |
+| conteúdo | Você é um roteirista de podcast e vamos criar um roteiro de podcast que aborda tecnologia focado para  o tema de Governança de TI, o nome do podcast é “Papo de Governança - Entenda a governança de TI de forma fácil e prática e o público alvo são iniciantes no tema ou pessoas relacionadas indiretamente a ele, como gestores de empresas por exemplo.O formato deve conter :[Introdução],[Explanações] ,[Finalização], {Regras} No bloco [Explanações]  substitua por explanações sobre uns 2 ou 3  principais conceitos do tema.No bloco [Finalização]  substitua por um agradecimento e convite a acompanhar novos episódios.Use linguagem jovem e descolada com termos fáceis.O podcast será apresentado pela jovem Fernanda.O podcast deve ser curto.{Regras negativas} Evite usar termos técnicos
+
+BING：
+
+|  Ação  | prompt                                                                                 |
+| :----: | -------------------------------------------------------------------------------------- |
+| título | - Crie uma Imagem para capa do meu Pod Cast, cujo título é Governança de TI e é apresentado por uma Jovem Narradora que pretende esclarecer a Governança de TI para iniciantes, imagem animada.|
+
+
+
 ## 👨‍💻 Expert
 
 <p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
+  
     <p>&nbsp&nbsp&nbspFernandaPrado<br>
     &nbsp&nbsp&nbsp
     <a 
